@@ -10,12 +10,6 @@ A sleek, responsive landing page for a private, invite-only online shop. Built i
 2. [Tech Stack](#-tech-stack)  
 3. [Prerequisites](#-prerequisites)  
 4. [Installation](#-installation)  
-5. [Available Scripts](#-available-scripts)  
-6. [Environment Variables](#-environment-variables)  
-7. [Customization](#-customization)  
-8. [Contributing](#-contributing)  
-9. [License](#-license)  
-
 ---
 
 ## 🔑 Features
