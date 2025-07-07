@@ -9,7 +9,6 @@ A sleek, responsive landing page for a private, invite-only online shop. Built i
 1. [Features](#-features)  
 2. [Tech Stack](#-tech-stack)  
 3. [Prerequisites](#-prerequisites)  
-4. [Installation](#-installation)  
 ---
 
 ## 🔑 Features
@@ -48,12 +47,3 @@ A sleek, responsive landing page for a private, invite-only online shop. Built i
 
 - **Node.js** v16 or newer  
 - **npm** (v8+) or **Yarn**  
-
----
-
-## 🚀 Installation
-
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/your-org/slump-landing.git
-   cd slump-landing
